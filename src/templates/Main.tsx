@@ -22,14 +22,14 @@ const Main = (props: IMainProps) => (
         </div>
         <div>
           <ul className="flex flex-wrap text-xl">
-            <li className="mr-6">
+            {/* <li className="mr-6">
               <Link
                 href="/"
                 className="border-none text-gray-700 hover:text-gray-900"
               >
                 Home
               </Link>
-            </li>
+            </li> */}
             <li className="mr-6">
               <Link
                 href="/project/"
@@ -49,7 +49,7 @@ const Main = (props: IMainProps) => (
             <li className="mr-6">
               <a
                 className="border-none text-gray-700 hover:text-gray-900"
-                href="https://github.com/ixartz/Next-js-Boilerplate"
+                href="https://github.com/rsrthedarklord/web-controls-iot"
               >
                 GitHub
               </a>
