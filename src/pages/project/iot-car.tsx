@@ -77,7 +77,7 @@ export default function Client() {
           <h1 className="text-3xl font-bold text-[#01845e]">IOT CAR</h1>
           <img
             className="h-24 w-24"
-            src="/assets/images/rc-car-chasis.png"
+            src="/assets/images/web-portal/rc-car-chasis.png"
             alt="RC Car 4WD"
           />
         </div>
@@ -91,7 +91,7 @@ export default function Client() {
           </div>
           <img
             className="w-full"
-            src="/assets/images/no-feed.jpg"
+            src="/assets/images/web-portal/no-feed.jpg"
             alt="Cam Feed"
           />
         </div>

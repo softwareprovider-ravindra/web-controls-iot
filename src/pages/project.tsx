@@ -10,7 +10,7 @@ const Project = () => (
       >
         <span>Arduino Mega, ESP8266, ESP32 CAM based IOT Car</span>
         <img
-          src="/assets/images/rc-car-chasis.png"
+          src="/assets/images/web-portal/rc-car-chasis.png"
           style={{ cursor: 'pointer' }}
           alt="IOT Car"
           onClick={() => {
