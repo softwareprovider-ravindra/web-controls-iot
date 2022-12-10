@@ -1,3 +1,10 @@
+# 1.0.0 (2022-12-10)
+
+
+### Features
+
+* **initalcommit:** added boilderplate and initial changes ([c9f6428](https://github.com/rsrthedarklord/web-controls-iot/commit/c9f64284c94bd2e86ef2e7cb6c55c5147977823a))
+
 # [3.6.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.5.4...v3.6.0) (2022-12-03)
 
 
