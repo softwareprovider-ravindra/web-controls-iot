@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rsrthedarklord/web-controls-iot/compare/v1.0.1...v1.1.0) (2022-12-10)
+
+
+### Features
+
+* **basesetup:** created basic ui and integrated socket io ([4add507](https://github.com/rsrthedarklord/web-controls-iot/commit/4add507ebc552f03d66eba60c460582052b91ce2))
+
 ## [1.0.1](https://github.com/rsrthedarklord/web-controls-iot/compare/v1.0.0...v1.0.1) (2022-12-10)
 
 
