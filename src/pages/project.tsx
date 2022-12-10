@@ -7,7 +7,7 @@ const Project = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <p>Pick a project that you want to control</p>
 
-    {['cam-feed', 'iot-car'].map((projectName) => (
+    {['iot-car'].map((projectName) => (
       <div
         className="my-4 w-full rounded-md border-2 border-gray-400 px-2 py-1"
         key={projectName}
