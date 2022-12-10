@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/rsrthedarklord/web-controls-iot/compare/v1.0.0...v1.0.1) (2022-12-10)
+
+
+### Bug Fixes
+
+* **funding:** remove funding ([dbfb6c2](https://github.com/rsrthedarklord/web-controls-iot/commit/dbfb6c2c40a2c1eb0382e1b603b96921d2b80639))
+
 # 1.0.0 (2022-12-10)
 
 
